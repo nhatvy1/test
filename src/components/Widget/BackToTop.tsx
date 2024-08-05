@@ -1,7 +1,6 @@
 'use client'
 
 import { useEffect, useState } from 'react'
-import IconArrow from '../icons/IconArrow'
 import { MdOutlineKeyboardArrowUp } from 'react-icons/md'
 
 const BackToTop = () => {
