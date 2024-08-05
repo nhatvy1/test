@@ -1,0 +1,215 @@
+{
+  "givral": [
+    {
+      "stt": 1,
+      "name": "Thập cẩm gà quay vi cá yến sào",
+      "sizes": {
+        "150": {"code": "4D", "price": 369000},
+        "200": {"code": "4B", "price": 402000},
+        "250": {"code": "4A", "price": 430000},
+        "300": {"code": "XX", "price": 457000}
+      }
+    },
+    {
+      "stt": 2,
+      "name": "Thập cẩm gà quay vi cá đặc biệt",
+      "sizes": {
+        "150": {"code": "6D", "price": 259000},
+        "200": {"code": "6B", "price": 292000},
+        "250": {"code": "6A", "price": 330000},
+        "300": {"code": "AA", "price": 363000}
+      }
+    },
+    {
+      "stt": 3,
+      "name": "Thập cẩm gà quay vi cá",
+      "sizes": {
+        "150": {"code": "2D", "price": 234000},
+        "200": {"code": "2B", "price": 256000},
+        "250": {"code": "2A", "price": 285000},
+        "300": {"code": "XA", "price": 319000}
+      }
+    },
+    {
+      "stt": 4,
+      "name": "Thẩp cẩm gà quay",
+      "sizes": {
+        "150": {"code": "8D", "price": 170000},
+        "200": {"code": "8B", "price": 204000},
+        "250": {"code": "8A", "price": 232000},
+        "300": {"code": "XB", "price": 253000}
+      }
+    },
+    {
+      "stt": 5,
+      "name": "Thập cẩm",
+      "sizes": {
+        "150": {"code": "3D", "price": 152000},
+        "200": {"code": "3B", "price": 187000},
+        "250": {"code": "3A", "price": 215000},
+        "300": {"code": "XC", "price": 237000}
+      }
+    },
+    {
+      "stt": 6,
+      "name": "Thập cẩm ngũ nhân",
+      "sizes": {
+        "150": {"code": "17D", "price": 237000},
+        "200": {"code": "17B", "price": 264000},
+        "250": {"code": "17A", "price": 295000},
+        "300": {"code": "X6", "price": 353000}
+      }
+    },
+    {
+      "stt": 7,
+      "name": "Thập cẩm gà quay bào ngư",
+      "sizes": {
+        "150": {"code": "27D", "price": 243000},
+        "200": {"code": "27B", "price": 270000},
+        "250": {"code": "27A", "price": 303000},
+        "300": {}
+      }
+    },
+    {
+      "stt": 8,
+      "name": "Hạt sen",
+      "sizes": {
+        "150": {"code": "5D", "price": 138000},
+        "200": {"code": "5B", "price": 169000},
+        "250": {"code": "5A", "price": 186000},
+        "300": {"code": "X1", "price": 208000}
+      }
+    },
+    {
+      "stt": 9,
+      "name": "Đậu xanh",
+      "sizes": {
+        "150": {"code": "7D", "price": 125000},
+        "200": {"code": "7B", "price": 148000},
+        "250": {"code": "7A", "price": 163000},
+        "300": {"code": "X2", "price": 179000}
+      }
+    },
+    {
+      "stt": 10,
+      "name": "Đậu xanh sầu riêng",
+      "sizes": {
+        "150": {"code": "9D", "price": 133000},
+        "200": {"code": "9B", "price": 156000},
+        "250": {"code": "9A", "price": 171000},
+        "300": {"code": "XD", "price": 185000}
+      }
+    },
+    {
+      "stt": 11,
+      "name": "Dừa hạt dưa",
+      "sizes": {
+        "150": {"code": "10D", "price": 128000},
+        "200": {"code": "10B", "price": 161000},
+        "250": {"code": "10A", "price": 172000},
+        "300": {}
+      }
+    },
+    {
+      "stt": 12,
+      "name": "Khoai môn",
+      "sizes": {
+        "150": {"code": "11D", "price": 144000},
+        "200": {"code": "11B", "price": 167000},
+        "250": {"code": "11A", "price": 188000},
+        "300": {}
+      }
+    },
+    {
+      "stt": 13,
+      "name": "Trà xanh",
+      "sizes": {
+        "150": {},
+        "200": {"code": "16B", "price": 170000},
+        "250": {"code": "16A", "price": 189000},
+        "300": {"code": "X4", "price": 205000}
+      }
+    },
+    {
+      "stt": 14,
+      "name": "Chocolate đậu phộng",
+      "sizes": {
+        "150": {"code": "18D", "price": 122000},
+        "200": {"code": "18B", "price": 149000},
+        "250": {"code": "18A", "price": 167000},
+        "300": {}
+      }
+    },
+    {
+      "stt": 15,
+      "name": "Đậu đỏ",
+      "sizes": {
+        "150": {"code": "20D", "price": 122000},
+        "200": {"code": "20B", "price": 149000},
+        "250": {"code": "20A", "price": 167000},
+        "300": {}
+      }
+    },
+    {
+      "stt": 16,
+      "name": "Chocolate - Cappuccino",
+      "sizes": {
+        "150": {"code": "28D", "price": 122000},
+        "200": {"code": "28B", "price": 149000},
+        "250": {"code": "28A", "price": 167000},
+        "300": {}
+      }
+    },
+    {
+      "stt": 17,
+      "name": "Lá dứa",
+      "sizes": {
+        "150": {"code": "30D", "price": 132000},
+        "200": {"code": "30B", "price": 156000},
+        "250": {"code": "30A", "price": 175000},
+        "300": {"code": "X8", "price": 199000}
+      }
+    },
+    {
+      "stt": 18,
+      "name": "Dừa - Lá Dứa",
+      "sizes": {
+        "150": {"code": "31D", "price": 146000},
+        "200": {"code": "31B", "price": 176000},
+        "250": {"code": "31A", "price": 193000},
+        "300": {}
+      }
+    },
+    {
+      "stt": 19,
+      "name": "Dừa sầu riêng Mới",
+      "sizes": {
+        "150": {"code": "32D", "price": 164000},
+        "200": {"code": "32B", "price": 186000},
+        "250": {"code": "32A", "price": 212000},
+        "300": {}
+      }
+    },
+    {
+      "stt": 20,
+      "name": "Dừa sầu riêng Cũ",
+      "sizes": {
+        "150": {"code": "33D", "price": 171000},
+        "200": {"code": "33B", "price": 193000},
+        "250": {"code": "33A", "price": 220000},
+        "300": {}
+      }
+    },
+    {
+      "stt": 21,
+      "name": "Dưa hấu",
+      "sizes": {
+        "150": {"code": "19D", "price": 145000},
+        "200": {"code": "19B", "price": 178000},
+        "250": {"code": "19A", "price": 192000},
+        "300": {}
+      }
+    }
+  ],
+  "bordard": []
+}

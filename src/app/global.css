@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "fontTitleBanner";
+  font-style: regular;
+  font-weight: 400;
+  src: url("/font/Allura-Regular.ttf") format("truetype");
+}
+
+html {
+  scroll-behavior: smooth;
+}

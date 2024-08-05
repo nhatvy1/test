@@ -1,0 +1,1432 @@
+{
+  "products": [
+    {
+      "img": "/item_single.jpg",
+      "id": 1,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral thập cẩm gà quay vi cá yến sào",
+      "trongluong": {
+        "300": {
+          "egg": 2,
+          "price": 457000,
+          "code": "XX"
+        },
+        "250": {
+          "egg": 2,
+          "price": 430000,
+          "code": "4A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 402000,
+          "code": "4B"
+        },
+        "150": {
+          "egg": 1,
+          "price": 369000,
+          "code": "4D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-thap-cam-ga-quay-vi-ca-yen-sao",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 2,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral thập cẩm gà quay vi cá đặc biệt",
+      "trongluong": {
+        "300": {
+          "egg": 2,
+          "price": 363000,
+          "code": "AA"
+        },
+        "250": {
+          "egg": 2,
+          "price": 330000,
+          "code": "6A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 292000,
+          "code": "6B"
+        },
+        "150": {
+          "egg": 1,
+          "price": 259000,
+          "code": "6D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-thap-cam-ga-quay-vi-ca-dac-biet",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 3,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral thập cẩm gà quay vi cá",
+      "trongluong": {
+        "300": {
+          "egg": 2,
+          "price": 319000,
+          "code": "XA"
+        },
+        "250": {
+          "egg": 2,
+          "price": 285000,
+          "code": "2A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 256000,
+          "code": "2B"
+        },
+        "150": {
+          "egg": 1,
+          "price": 234000,
+          "code": "2D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-thap-cam-ga-quay-vi-ca",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 4,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral thập cẩm gà quay",
+      "trongluong": {
+        "300": {
+          "egg": 2,
+          "price": 253000,
+          "code": "XB"
+        },
+        "250": {
+          "egg": 2,
+          "price": 232000,
+          "code": "8A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 204000,
+          "code": "8B"
+        },
+        "150": {
+          "egg": 1,
+          "price": 170000,
+          "code": "8D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-thap-cam-ga-quay",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 5,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral thập cẩm",
+      "trongluong": {
+        "300": {
+          "egg": 2,
+          "price": 237000,
+          "code": "XC"
+        },
+        "250": {
+          "egg": 2,
+          "price": 215000,
+          "code": "3A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 187000,
+          "code": "3B"
+        },
+        "150": {
+          "egg": 1,
+          "price": 152000,
+          "code": "3D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-thap-cam",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 6,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral thập cẩm ngũ nhân",
+      "trongluong": {
+        "300": {
+          "egg": 2,
+          "price": 353000,
+          "code": "X6"
+        },
+        "250": {
+          "egg": 2,
+          "price": 295000,
+          "code": "17A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 264000,
+          "code": "17B"
+        },
+        "150": {
+          "egg": 1,
+          "price": 237000,
+          "code": "17D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-thap-cam-ngu-nhan",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 7,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral thập cẩm gà quay bào ngư",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 303000,
+          "code": "27A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 270000,
+          "code": "27B"
+        },
+        "150": {
+          "egg": 1,
+          "price": 243000,
+          "code": "27D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-thap-cam-ga-quay-bao-ngu",
+      "type": "givral"
+    },
+
+    {
+      "img": "/item_single.jpg",
+      "id": 8,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral Hạt Sen",
+      "trongluong": {
+        "300": {
+          "egg": 2,
+          "price": 208000,
+          "code": "X1"
+        },
+        "250": {
+          "egg": 2,
+          "price": 168000,
+          "code": "5A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 169000,
+          "code": "5B"
+        },
+        "150": {
+          "egg": 1,
+          "price": 138000,
+          "code": "5D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-hat-sen",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 9,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral Đậu Xanh",
+      "trongluong": {
+        "300": {
+          "egg": 2,
+          "price": 179000,
+          "code": "X2"
+        },
+        "250": {
+          "egg": 2,
+          "price": 163000,
+          "code": "7A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 148000,
+          "code": "7B"
+        },
+        "150": {
+          "egg": 1,
+          "price": 125000,
+          "code": "7D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-dau-xanh",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 10,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral đậu xanh sầu riêng",
+      "trongluong": {
+        "300": {
+          "egg": 2,
+          "price": 185000,
+          "code": "XD"
+        },
+        "250": {
+          "egg": 2,
+          "price": 171000,
+          "code": "9A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 156000,
+          "code": "9B"
+        },
+        "150": {
+          "egg": 1,
+          "price": 133000,
+          "code": "9D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-dau-xanh-sau-rieng",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 11,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral Dừa Hạt Dưa",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 172000,
+          "code": "10A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 161000,
+          "code": "10B"
+        },
+        "150": {
+          "egg": 1,
+          "price": 128000,
+          "code": "10D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-dua-hat-dua",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 12,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral Khoai môn",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 188000,
+          "code": "11A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 167000,
+          "code": "11B"
+        },
+        "150": {
+          "egg": 1,
+          "price": 144000,
+          "code": "11D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-khoai-mon",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 13,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral Trà xanh",
+      "trongluong": {
+        "300": {
+          "egg": 2,
+          "price": 205000,
+          "code": "X4"
+        },
+        "250": {
+          "egg": 2,
+          "price": 189000,
+          "code": "16A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 170000,
+          "code": "16B"
+        }
+      },
+      "slug": "banh-trung-thu-givral-tra-xanh",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 14,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral Chocolate đậu phộng",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 167000,
+          "code": "18A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 149000,
+          "code": "18B"
+        },
+        "150": {
+          "egg": 1,
+          "price": 122000,
+          "code": "18D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-chocolate-dau-phong",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 15,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral Lá Dứa",
+      "trongluong": {
+        "300": {
+          "egg": 2,
+          "price": 199000,
+          "code": "30A"
+        },
+        "250": {
+          "egg": 2,
+          "price": 175000,
+          "code": "30A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 156000,
+          "code": "30B"
+        },
+        "150": {
+          "egg": 1,
+          "price": 132000,
+          "code": "30D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-la-dua",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 16,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral Dừa Lá Dứa",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 193000,
+          "code": "31A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 176000,
+          "code": "31B"
+        },
+        "150": {
+          "egg": 1,
+          "price": 146000,
+          "code": "31D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-dua-la-dua",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 17,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral Chocolate - Cappucino",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 167000,
+          "code": "28A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 149000,
+          "code": "28B"
+        },
+        "150": {
+          "egg": 1,
+          "price": 122000,
+          "code": "28D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-chocolate-cappucino",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 18,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral Đậu Xanh 0 Trứng",
+      "trongluong": {
+        "250": {
+          "egg": 0,
+          "price": 140000,
+          "code": "12A"
+        },
+        "200": {
+          "egg": 0,
+          "price": 121000,
+          "code": "12B"
+        },
+        "150": {
+          "egg": 0,
+          "price": 99000,
+          "code": "12D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-dau-xanh-0-trung",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 19,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral Hạt Sen 0 trứng",
+      "trongluong": {
+        "250": {
+          "egg": 0,
+          "price": 161000,
+          "code": "13A"
+        },
+        "200": {
+          "egg": 0,
+          "price": 143000,
+          "code": "13B"
+        },
+        "150": {
+          "egg": 0,
+          "price": 113000,
+          "code": "13D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-hat-sen-0-trung",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 20,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral Đậu Đỏ 0 Trứng",
+      "trongluong": {
+        "250": {
+          "egg": 0,
+          "price": 148000,
+          "code": "14A"
+        },
+        "200": {
+          "egg": 0,
+          "price": 128000,
+          "code": "14B"
+        },
+        "150": {
+          "egg": 0,
+          "price": 110000,
+          "code": "14D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-dau-do-0-trung",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 21,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral Thập Cẩm Chay 0 Trứng",
+      "trongluong": {
+        "250": {
+          "egg": 0,
+          "price": 213000,
+          "code": "29A"
+        },
+        "200": {
+          "egg": 0,
+          "price": 186000,
+          "code": "29B"
+        },
+        "150": {
+          "egg": 0,
+          "price": 163000,
+          "code": "29D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-thap-cam-chay-0-trung",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 22,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral Dẻo Đậu Xanh 0 Trứng",
+      "trongluong": {
+        "250": {
+          "egg": 0,
+          "price": 128000,
+          "code": "D2"
+        },
+        "200": {
+          "egg": 0,
+          "price": 118000,
+          "code": "D1"
+        },
+        "150": {
+          "egg": 0,
+          "price": 111000,
+          "code": "D11"
+        }
+      },
+      "slug": "banh-trung-thu-givral-deo-dau-xanh-0-trung",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 23,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral Dẻo Hạt Sen 0 Trứng",
+      "trongluong": {
+        "250": {
+          "egg": 0,
+          "price": 155000,
+          "code": "D6"
+        },
+        "200": {
+          "egg": 0,
+          "price": 149000,
+          "code": "D5"
+        },
+        "150": {
+          "egg": 0,
+          "price": 131000,
+          "code": "D12"
+        }
+      },
+      "slug": "banh-trung-thu-givral-deo-hat-sen-0-trung",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 24,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral Dẻo Lá Dứa 0 Trứng",
+      "trongluong": {
+        "250": {
+          "egg": 0,
+          "price": 134000,
+          "code": "D10"
+        },
+        "200": {
+          "egg": 0,
+          "price": 121000,
+          "code": "D9"
+        },
+        "150": {
+          "egg": 0,
+          "price": 113000,
+          "code": "D13"
+        }
+      },
+      "slug": "banh-trung-thu-givral-deo-la-dua-0-trung",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 25,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral Dẻo Trà xanh 0 Trứng",
+      "trongluong": {
+        "250": {
+          "egg": 0,
+          "price": 163000,
+          "code": "D4"
+        },
+        "200": {
+          "egg": 0,
+          "price": 158000,
+          "code": "D3"
+        },
+        "150": {
+          "egg": 0,
+          "price": 148000,
+          "code": "D14"
+        }
+      },
+      "slug": "banh-trung-thu-givral-deo-tra-xanh-0-trung",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 26,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral Dẻo Khoai Môn 0 Trứng",
+      "trongluong": {
+        "250": {
+          "egg": 0,
+          "price": 132000,
+          "code": "D8"
+        },
+        "200": {
+          "egg": 0,
+          "price": 121000,
+          "code": "D7"
+        },
+        "150": {
+          "egg": 0,
+          "price": 114000,
+          "code": "D15"
+        }
+      },
+      "slug": "banh-trung-thu-givral-deo-khoai-mon-0-trung",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 27,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral Táo Đỏ",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 215000,
+          "code": "33A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 187000,
+          "code": "33B"
+        },
+        "150": {
+          "egg": 1,
+          "price": 152000,
+          "code": "33D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-tao-do",
+      "type": "givral"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 28,
+      "brand": "givral",
+      "name": "Bánh trung thu Givral Dừa Sầu Riêng",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 188000,
+          "code": "32A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 168000,
+          "code": "32B"
+        },
+        "150": {
+          "egg": 1,
+          "price": 145000,
+          "code": "32D"
+        }
+      },
+      "slug": "banh-trung-thu-givral-dua-sau-rieng",
+      "type": "givral"
+    },
+
+    {
+      "img": "/item_single.jpg",
+      "id": 29,
+      "brand": "brodard",
+      "name": "Bánh trung thu Brodard Thập Cẩm",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 240000,
+          "code": "1A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 210000,
+          "code": "1B"
+        }
+      },
+      "slug": "banh-trung-thu-brodard-thap-cam",
+      "type": "brodard"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 30,
+      "brand": "brodard",
+      "name": "Bánh trung thu Brodard Thập Cẩm Gà Quay",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 250000,
+          "code": "3A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 220000,
+          "code": "3B"
+        }
+      },
+      "slug": "banh-trung-thu-brodard-thap-cam-ga-quay",
+      "type": "brodard"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 31,
+      "brand": "brodard",
+      "name": "Bánh trung thu Brodard Tom Yum Hải Sản",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 340000,
+          "code": "9A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 300000,
+          "code": "9B"
+        }
+      },
+      "slug": "banh-trung-thu-brodard-tom-yum-hai-san",
+      "type": "brodard"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 32,
+      "brand": "brodard",
+      "name": "Bánh trung thu Brodard Hải Sản Xốt Bào Ngư",
+      "trongluong": {
+        "250": {
+          "egg": 1,
+          "price": 310000,
+          "code": "17A"
+        },
+        "200": {
+          "egg": 1,
+          "price": 260000,
+          "code": "17B"
+        }
+      },
+      "slug": "banh-trung-thu-brodard-hai-san-xot-bao-ngu",
+      "type": "brodard"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 33,
+      "brand": "brodard",
+      "name": "Bánh trung thu Brodard Gà Quay Vi Cá",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 400000,
+          "code": "13A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 330000,
+          "code": "13B"
+        }
+      },
+      "slug": "banh-trung-thu-brodard-ga-quay-vi-ca",
+      "type": "brodard"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 34,
+      "brand": "brodard",
+      "name": "Bánh trung thu Brodard Sò Điệp Xốt XO",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 400000,
+          "code": "21A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 340000,
+          "code": "21B"
+        }
+      },
+      "slug": "banh-trung-thu-brodard-so-diep-xot-xo",
+      "type": "brodard"
+    },
+
+    {
+      "img": "/item_single.jpg",
+      "id": 35,
+      "brand": "brodard",
+      "name": "Bánh trung thu Brodard Hạt Sen Trà Xanh Chay",
+      "trongluong": {
+        "250": {
+          "egg": 0,
+          "price": 210000,
+          "code": "4A"
+        },
+        "200": {
+          "egg": 0,
+          "price": 190000,
+          "code": "4B"
+        }
+      },
+      "slug": "banh-trung-thu-brodard-hat-sen-tra-xanh-chay",
+      "type": "brodard"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 36,
+      "brand": "brodard",
+      "name": "Bánh trung thu Brodard Đậu Xanh Chay",
+      "trongluong": {
+        "250": {
+          "egg": 0,
+          "price": 190000,
+          "code": "8A"
+        },
+        "200": {
+          "egg": 0,
+          "price": 170000,
+          "code": "8B"
+        }
+      },
+      "slug": "banh-trung-thu-brodard-dau-xanh-chay",
+      "type": "brodard"
+    },
+
+    {
+      "img": "/item_single.jpg",
+      "id": 37,
+      "brand": "brodard",
+      "name": "Bánh trung thu Brodard Tiramisu",
+      "trongluong": {
+        "250": {
+          "egg": 0,
+          "price": 280000,
+          "code": "12A"
+        },
+        "200": {
+          "egg": 0,
+          "price": 230000,
+          "code": "12B"
+        }
+      },
+      "slug": "banh-trung-thu-brodard-tiramisu",
+      "type": "brodard"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 38,
+      "brand": "brodard",
+      "name": "Bánh trung thu Brodard Hạnh Nhân Phô Mai Việt Quất Hoa Kỳ",
+      "trongluong": {
+        "250": {
+          "egg": 0,
+          "price": 280000,
+          "code": "24A"
+        },
+        "200": {
+          "egg": 0,
+          "price": 230000,
+          "code": "24B"
+        }
+      },
+      "slug": "banh-trung-thu-brodard-hanh-nhan-pho-mai-viet-quat-hoa-ky",
+      "type": "brodard"
+    },
+
+    {
+      "img": "/item_single.jpg",
+      "id": 39,
+      "brand": "brodard",
+      "name": "Bánh trung thu Brodard Khoai Môn",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 210000,
+          "code": "42A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 190000,
+          "code": "42B"
+        }
+      },
+      "slug": "banh-trung-thu-brodard-khoai-mon",
+      "type": "brodard"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 40,
+      "brand": "brodard",
+      "name": "Bánh trung thu Brodard Hạt Sen Lá Dứa Hạnh Nhân",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 240000,
+          "code": "64A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 210000,
+          "code": "64B"
+        }
+      },
+      "slug": "banh-trung-thu-brodard-hat-sen-la-dua-hanh-nhan",
+      "type": "brodard"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 41,
+      "brand": "brodard",
+      "name": "Bánh trung thu Brodard Đậu Xanh",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 200000,
+          "code": "52A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 180000,
+          "code": "52B"
+        }
+      },
+      "slug": "banh-trung-thu-brodard-dau-xanh",
+      "type": "brodard"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 42,
+      "brand": "brodard",
+      "name": "Bánh trung thu Brodard Yến Sào Táo Đỏ Ngũ Hạt",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 410000,
+          "code": "19A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 250000,
+          "code": "19B"
+        }
+      },
+      "slug": "banh-trung-thu-brodard-yen-sao-tao-do-ngu-hat",
+      "type": "brodard"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 43,
+      "brand": "brodard",
+      "name": "Bánh trung thu Brodard Sầu riêng 6 Ri",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 210000,
+          "code": "48A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 190000,
+          "code": "48B"
+        }
+      },
+      "slug": "banh-trung-thu-brodard-sau-rieng-6-ri",
+      "type": "brodard"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 44,
+      "brand": "brodard",
+      "name": "Bánh trung thu Brodard Mè Đen",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 240000,
+          "code": "54A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 200000,
+          "code": "54B"
+        }
+      },
+      "slug": "banh-trung-thu-brodard-me-den",
+      "type": "brodard"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 45,
+      "brand": "brodard",
+      "name": "Bánh trung thu Brodard Espresso Kim Sa Lava",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 260000,
+          "code": "68A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 220000,
+          "code": "68B"
+        }
+      },
+      "slug": "banh-trung-thu-brodard-espresso-kim-sa-lava",
+      "type": "brodard"
+    },
+    {
+      "img": "/item_single.jpg",
+      "id": 46,
+      "brand": "brodard",
+      "name": "Bánh trung thu Brodard Ô long Hạt Sen",
+      "trongluong": {
+        "250": {
+          "egg": 2,
+          "price": 250000,
+          "code": "26A"
+        },
+        "200": {
+          "egg": 2,
+          "price": 210000,
+          "code": "26B"
+        }
+      },
+      "slug": "banh-trung-thu-brodard-o-long-hat-sen",
+      "type": "brodard"
+    },
+
+    {
+      "img": "/item_combo.jpg",
+      "id": 47,
+      "brand": "givral",
+      "name": "Tết Đoàn Viên 1 (4 Bánh)",
+      "slug": "combo-tet-doan-vien-1",
+      "price": 772000,
+      "body": "Bánh Trung Thu Givral Tết Đoàn Viên 1 với hương vị truyền thống.",
+      "codes": ["2/150", "7/150", "8/150", "15/150"],
+      "type": "combo/givral"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 48,
+      "brand": "givral",
+      "name": "Tết Đoàn Viên 2 (4 Bánh)",
+      "slug": "combo-tet-doan-vien-2",
+      "price": 732000,
+      "body": "Bánh Trung Thu Givral Tết Đoàn Viên 2 mang đến sự ngọt ngào.",
+      "codes": ["6/150", "7/150", "10/150", "11/150"],
+      "type": "combo/givral"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 49,
+      "brand": "givral",
+      "name": "Tết Đoàn Viên 3 (4 Bánh)",
+      "slug": "combo-tet-doan-vien-3",
+      "price": 673000,
+      "body": "Bánh Trung Thu Givral Tết Đoàn Viên 3 với sự kết hợp hoàn hảo.",
+      "codes": ["3/150", "4/150", "9/150", "12/150"],
+      "type": "combo/givral"
+    },
+
+    {
+      "img": "/item_combo.jpg",
+      "id": 50,
+      "brand": "givral",
+      "name": "Combo Tâm Giao 3 (4 Bánh)",
+      "slug": "combo-tam-giao-3",
+      "price": 863000,
+      "body": "Combo Tâm Giao 3 thích hợp cho các dịp lễ.",
+      "codes": ["3/250", "5/250", "15/250", "12/250"],
+      "type": "combo/givral"
+    },
+
+    {
+      "img": "/item_combo.jpg",
+      "id": 51,
+      "brand": "givral",
+      "name": "Combo Sum Vầy 1 (4 Bánh)",
+      "slug": "combo-sum-vay-1",
+      "price": 878000,
+      "body": "Combo Sum Vầy 1 với nhiều hương vị độc đáo.",
+      "codes": ["2/200", "3/200", "8/200", "11/200"],
+      "type": "combo/givral"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 52,
+      "brand": "givral",
+      "name": "Combo Sum Vầy 2 (4 Bánh)",
+      "slug": "combo-sum-vay-2",
+      "price": 768000,
+      "body": "Combo Sum Vầy 2 mang đến sự đa dạng.",
+      "codes": ["5/200", "3/200", "8/200", "10/200"],
+      "type": "combo/givral"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 53,
+      "brand": "givral",
+      "name": "Combo Sum Vầy 3 (4 Bánh)",
+      "slug": "combo-sum-vay-3",
+      "price": 715000,
+      "body": "Combo Sum Vầy 3 dành cho gia đình.",
+      "codes": ["4/200", "5/200", "9/200", "16/200"],
+      "type": "combo/givral"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 54,
+      "brand": "givral",
+      "name": "Combo Tâm Giao 1 (4 Bánh)",
+      "slug": "combo-tam-giao-1",
+      "price": 923000,
+      "body": "Combo Tâm Giao 1 chất lượng cao.",
+      "codes": ["3/250", "7/250", "9/250", "11/250"],
+      "type": "combo/givral"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 55,
+      "brand": "givral",
+      "name": "Combo Tâm Giao 2 (4 Bánh)",
+      "slug": "combo-tam-giao-2",
+      "price": 884000,
+      "body": "Combo Tâm Giao 2 phong phú hương vị.",
+      "codes": ["6/250", "4/250", "8/250", "10/250"],
+      "type": "combo/givral"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 56,
+      "brand": "givral",
+      "name": "Combo Trăng Thanh 1 (4 Bánh)",
+      "slug": "combo-trang-thanh-1",
+      "price": 438000,
+      "body": "Combo Trăng Thanh 1 giá cả phải chăng.",
+      "codes": ["18/150", "20/150", "26/150", "19/150"],
+      "type": "combo/givral"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 57,
+      "brand": "givral",
+      "name": "Combo Thành Ý 1 (4 Bánh)",
+      "slug": "combo-thanh-y-1",
+      "price": 1197000,
+      "body": "Combo Thành Ý 1 nổi bật với chất lượng.",
+      "codes": ["1/300", "6/300", "8/300", "9/300"],
+      "type": "combo/givral"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 58,
+      "brand": "givral",
+      "name": "Combo Thành Ý 2 (4 Bánh)",
+      "slug": "combo-thanh-y-2",
+      "price": 1072000,
+      "body": "Combo Thành Ý 2 hảo hạng.",
+      "codes": ["2/300", "3/300", "10/300", "13/300"],
+      "type": "combo/givral"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 59,
+      "brand": "givral",
+      "name": "Combo Trăng Thanh 2 (4 Bánh)",
+      "slug": "combo-trang-thanh-2",
+      "price": 578000,
+      "body": "Combo Trăng Thanh 2 thích hợp cho mọi lứa tuổi.",
+      "codes": ["19/200", "21/200", "18/200", "20/200"],
+      "type": "combo/givral"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 60,
+      "brand": "givral",
+      "name": "Combo Trăng Yêu Thương 1",
+      "slug": "combo-trang-yeu-thuong-1",
+      "price": 1113000,
+      "body": "Combo Trăng Yêu Thương 1 đậm đà hương vị.",
+      "codes": ["2/150", "6/150", "8/150", "10/150", "12/150", "5/150"],
+      "type": "combo/givral"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 61,
+      "brand": "givral",
+      "name": "Combo Trăng Yêu Thương 2",
+      "slug": "combo-trang-yeu-thuong-2",
+      "price": 1013000,
+      "body": "Combo Trăng Yêu Thương 2 độc đáo và sáng tạo.",
+      "codes": [],
+      "type": "combo/givral"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 62,
+      "brand": "givral",
+      "name": "Combo Trăng Yêu Thương 3",
+      "slug": "combo-trang-yeu-thuong-3",
+      "price": 981000,
+      "body": "Combo Trăng Yêu Thương 3 hấp dẫn và mới lạ.",
+      "codes": ["7/150", "4/150", "5/150", "11/150", "8/150", "15/150"],
+      "type": "combo/givral"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 63,
+      "brand": "givral",
+      "name": "Combo Như Ý (6 Bánh)",
+      "slug": "combo-nhu-y",
+      "price": 1149000,
+      "body": "Combo Như Ý dành cho những buổi tiệc lớn.",
+      "codes": ["13/150", ""],
+      "type": "combo/givral"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 64,
+      "brand": "givral",
+      "name": "Combo Sắc Màu (4 Bánh)",
+      "slug": "combo-sac-mau",
+      "price": 691000,
+      "body": "Combo Sắc Màu với nhiều màu sắc hấp dẫn.",
+      "codes": [],
+      "type": "combo/givral"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 65,
+      "brand": "givral",
+      "name": "Combo Tình Thân",
+      "slug": "combo-tinh-than",
+      "price": 778000,
+      "body": "Combo Tình Thân mang lại sự gắn kết.",
+      "codes": [],
+      "type": "combo/givral"
+    },
+
+    {
+      "img": "/item_combo.jpg",
+      "id": 66,
+      "brand": "brodard",
+      "name": "Hộp 4 bánh - Hương Sắc Bốn Mùa 1",
+      "slug": "huong-sac-bon-mua-1",
+      "body": "Bánh Trung Thu Brodard 2024 Hộp 4 bánh - Hương Sắc Bốn Mùa 1",
+      "price": 890000,
+      "codes": ["29/250", "30/250", "39/250", "36/250"],
+      "type": "combo/brodard"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 67,
+      "brand": "brodard",
+      "name": "Hộp 4 bánh - Hương Sắc Bốn Mùa 2",
+      "slug": "combo-huong-sac-bon-mua-2",
+      "body": "Bánh Trung Thu Brodard 2024 Hộp 4 bánh - Hương Sắc Bốn Mùa 2",
+      "price": 950000,
+      "codes": ["29/250", "30/250", "46/250", "43/250"],
+      "type": "combo/brodard"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 68,
+      "brand": "brodard",
+      "name": "Hộp 4 bánh - Hương Sắc Bốn Mùa 3",
+      "slug": "combo-huong-sac-bon-mua-3",
+      "body": "Bánh Trung Thu Brodard 2024 Hộp 4 bánh - Hương Sắc Bốn Mùa 3",
+      "price": 1070000,
+      "codes": ["30/250", "31/250", "44/250", "40/250"],
+      "type": "combo/brodard"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 69,
+      "brand": "brodard",
+      "name": "Hộp 4 bánh - Hương Sắc Bốn Mùa 4",
+      "slug": "combo-huong-sac-bon-mua-4",
+      "body": "Bánh Trung Thu Brodard 2024 Hộp 4 bánh - Hương Sắc Bốn Mùa 4",
+      "price": 1210000,
+      "codes": ["30/250", "34/250", "37/250", "38/250"],
+      "type": "combo/brodard"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 70,
+      "brand": "brodard",
+      "name": "Hộp Vip - Non Sông Gấm Vóc Mật Ong",
+      "slug": "combo-non-song-gam-voc-mat-ong",
+      "body": "Bánh Trung Thu Brodard 2024 Hộp Vip - Non Sông Gấm Vóc Mật Ong",
+      "price": 3100000,
+      "codes": ["32/250", "42/250", "38/250", "46/250"],
+
+      "type": "combo/brodard"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 71,
+      "brand": "brodard",
+      "name": "Hộp Vip - Non Sông Gấm Vóc Nhân Sâm",
+      "slug": "combo-non-song-gam-voc-nhan-sam",
+      "body": "Bánh Trung Thu Brodard 2024 Hộp Vip - Non Sông Gấm Vóc Nhân Sâm",
+      "price": 3500000,
+      "codes": ["32/250", "42/250", "38/250", "46/250"],
+      "type": "combo/brodard"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 72,
+      "brand": "brodard",
+      "name": "Hộp Vip - Non Sông Gấm Vóc Yến Sào",
+      "slug": "combo-non-song-gam-voc-yen-sao",
+      "body": "Bánh Trung Thu Brodard 2024 Hộp Vip - Non Sông Gấm Vóc Yến Sào",
+      "price": 6600000,
+      "codes": ["32/250", "42/250", "38/250", "46/250"],
+      "type": "combo/brodard"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 73,
+      "brand": "brodard",
+      "name": "Hộp 6 bánh - Dạ Nguyệt Đoàn Viên 1",
+      "slug": "combo-da-nguyet-doan-vien-1",
+      "body": "Bánh Trung Thu Brodard 2024 Hộp 6 bánh - Dạ Nguyệt Đoàn Viên 1",
+      "price": 1530000,
+      "codes": ["29/250", "30/250", "31/250", "46/250", "43/250", "40/250"],
+      "type": "combo/brodard"
+    },
+    {
+      "img": "/item_combo.jpg",
+      "id": 74,
+      "brand": "brodard",
+      "name": "Hộp 6 bánh - Dạ Nguyệt Đoàn Viên 2",
+      "slug": "combo-da-nguyet-doan-vien-2",
+      "body": "Bánh Trung Thu Brodard 2024 Hộp 6 bánh - Dạ Nguyệt Đoàn Viên 2",
+      "price": 1650000,
+      "codes": ["30/250", "31/250", "32/250", "39/250", "45/250", "38/250"],
+      "type": "combo/brodard"
+    }
+  ]
+}

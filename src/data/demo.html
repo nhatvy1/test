@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
+      td,
+      th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+      }
+
+      .title {
+        background-color: rgb(220, 173, 243);
+        padding: 10px;
+        color: white;
+        margin-bottom: 5px;
+      }
+
+      .list {
+        list-style: none;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="title">
+        <h1>Cảm ơn quý khách</h1>
+      </div>
+      <ul class="list">
+        <li>Khách hàng: Huỳnh Nhật Vỹ</li>
+        <li>Email: vyhuynhak123@gmail.com</li>
+        <li>Số điện thoại: 0332650824</li>
+        <li>Địa chỉ: 502/15/02 Thống Nhất, P.16, Gò Vấp, Hồ Chí Minh</li>
+        <li>Ghi chú: Bạn có thể tư vấn cho tôi được không</li>
+      </ul>
+      <p>
+        Kính chúc quý khách hàng có một mùa Trung thu thật vui vẻ và ấm áp bên
+        gia đình.💕💕💕
+      </p>
+      <table>
+        <thead>
+          <tr>
+            <td>
+              <p><strong>STT</strong></p>
+            </td>
+            <td>
+              <p><strong>Mã hàng</strong></p>
+            </td>
+            <td>
+              <p><strong>Tên hàng hóa</strong></p>
+            </td>
+            <td>
+              <p><strong>Giá tiền</strong></p>
+            </td>
+            <td>
+              <p><strong>Số lượng</strong></p>
+            </td>
+            <td>
+              <p><strong>Trọng lượng</strong> (Gram)</p>
+            </td>
+            <td>
+              <p><strong>Loại bánh</strong></p>
+            </td>
+          </tr>
+        </thead>
+        <tbody>
+          ${tbody}
+        </tbody>
+      </table>
+    </div>
+  </body>
+</html>
